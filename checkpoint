@@ -1,0 +1,2 @@
+model_checkpoint_path: "gray_image_model"
+all_model_checkpoint_paths: "gray_image_model"
